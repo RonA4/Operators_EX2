@@ -59,7 +59,7 @@ All memory is managed manually using raw arrays, and correctness is ensured via 
 ├── main.cpp              # Demo file that demonstrates usage of the SquareMat class (not for testing)
 ├── makefile              # Build automation file to compile, test, run valgrind, and clean the project
 ├── readme.md             # Project documentation including description, usage instructions, and structure
-
+```
 
 ---
 
